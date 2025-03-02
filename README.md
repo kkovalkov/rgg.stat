@@ -1,2 +1,2 @@
 # rgg.stat
-Probability theory in RGG
+Probability theory at RGG
